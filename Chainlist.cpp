@@ -2,7 +2,7 @@
 FBI WARNING
 THIS IS A MODIFICATION TEST!!
 */
-#include "node.h"
+#include "Node.h"
 #include "chainlist.h"
 TP Chainlist<T>::Chainlist(){
     first = nullptr;
